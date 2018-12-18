@@ -1,0 +1,3 @@
+8led.c, Bmp.c, button.c, exception.c, lcd.c, led.c, timer0.c, timer2.c, tp.c -> click derecho -> Resource configuration -> Exclude from build -> debug
+
+init_b_2018.asm debe cargar Main
